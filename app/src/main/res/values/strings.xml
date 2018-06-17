@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TourGuideAppUdacity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_theatres">Theatres</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_bars">Bars</string>
+    <string name="mu_hermitage">Hermitage</string>
+    <string name="mu_tretyakovka">Tretyakovskaya gallery</string>
+    <string name="mu_armory">Armory museum</string>
+    <string name="mu_diamond">Diamond fund</string>
+    <string name="mu_grand">Grand Maket Russia</string>
+    <string name="mu_hermitage_desc">A museum of art and culture in Saint Petersburg, Russia. The second-largest in the world, it was founded in 1764 when Empress Catherine the Great acquired an impressive collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky.</string>
+    <string name="mu_tretyakovka_desc">An art gallery in Moscow, Russia, the foremost depository of Russian fine art in the world.</string>
+    <string name="mu_armory_desc">One of the oldest museums of Moscow, established in 1851 and located in the Moscow Kremlin.</string>
+    <string name="mu_diamond_desc">Unique collection of gems, jewelry and natural nuggets, which are stored and exhibited in the Moscow Kremlin in Russia. </string>
+    <string name="mu_grand_desc">Grand Maket Rossiya is a private museum in Saint Petersburg, Russia. It is a model layout designed on a scale of 1:87 (HO scale) and covers an area of 800 m2 (8,600 sq ft)</string>
+    <string name="pa_Zaryade">Zaryadye Park</string>
+    <string name="pa_Zaryade_dec">Landscape urban park located adjacent to Red Square in Moscow, Russia on the site of the former Rossiya Hotel.</string>
+    <string name="pa_Patriarch">Patriarch Ponds</string>
+    <string name="pa_Patriarch_dec">An affluent residential area in downtown Presnensky District of Moscow, Russia</string>
+    <string name="pa_Gorky">Gorky Park</string>
+    <string name="pa_Gorky_dec">Central park in Moscow, named after Maxim Gorky.</string>
+    <string name="pa_Botanical">Botanical Garden</string>
+    <string name="pa_Botanical_dec">The largest botanical garden in Europe.It covers a territory of approximately 3.61 km², bordering the VDNKH Exhibition Center, and contains a live exhibition of more than twenty thousand different species of plants coming from various parts of the world.</string>
+    <string name="the_Bolshoi">The Bolshoi Theatre</string>
+    <string name="the_Bolshoi_dec">historic theatre in Moscow, Russia, originally designed by architect Joseph Bové, which holds ballet and opera performances.</string>
+    <string name="the_Mariinsky">The Mariinsky Theatre</string>
+    <string name="the_Mariinsky_dec"> historic theatre of opera and ballet in Saint Petersburg, Russia. Opened in 1860, it became the preeminent music theatre of late 19th-century Russia</string>
+    <string name="the_MAT">The Moscow Art Theatre </string>
+    <string name="the_MAT_dec">It was founded in 1898 by the seminal Russian theatre practitioner Konstantin Stanislavski, together with the playwright and director Vladimir Nemirovich-Danchenko.</string>
+    <string name="bar_we">White Eagles</string>
+    <string name="bar_we_dec">http://we-pub.ru</string>
+    <string name="bar_bandit">Los Banditos</string>
+    <string name="bar_bandit_dec">https://vk.com/los_bandidos_bar</string>
+</resources>
